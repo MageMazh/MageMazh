@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magemazh&label=Profile%20views&color=0e75b6&style=flat" alt="magemazh" /> </p>
 
-- 🌱 I’m currently learning **Ionic and Kotlin**
+- 🌱 Here is my portfolio https://www.canva.com/design/DAGHh-lX-c4/Rpsb5cSjw3rLs4IN-mzwRA/edit
  
 - 📫 How to reach me **marcellinocandyawan@gmail.com**
 
